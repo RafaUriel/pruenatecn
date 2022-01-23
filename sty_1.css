@@ -1,0 +1,30 @@
+#form-order {
+
+width: 600px;
+background : #24303c;
+padding: 30px;
+margin: auto;
+margin-top: 50px;
+border-radius: 4px;
+font-family: 'calibri';
+color: white;
+}
+
+#tit, #not{
+    
+    font-size: 18px;
+    font-family: cursive;
+    background: #24303c;
+    padding: 1px;
+    margin-bottom: 1px;
+    text-align: center;
+    width: auto;
+  }  
+
+.bo {
+    width: 100%;
+    background: #1f53c5;
+    color: burlywood;
+    font-size: 18px;
+    
+}
